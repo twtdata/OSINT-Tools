@@ -161,7 +161,7 @@ The **OSINT Framework** is a powerful collection of tools and methods designed f
 - **Spoonbill** - [Website](https://spoonbill.io/)
 - **Pipl** - [Website](https://pipl.com/)
 - **Twitonomy** - [Website](https://www.twitonomy.com/)
-- **Mentionmapp** - [Website](https://mentionmapp.com/)
+- **twtData** - [Website](https://twtdata.com/)
 - **PeopleLooker** - [Website](https://www.peoplelooker.com/)
 
 ---
